@@ -10,6 +10,7 @@ body {
   height: 136px;
 }
 
-img {
+#content > img {
   border-radius: 5%;
+  margin: 0 4px;
 }
