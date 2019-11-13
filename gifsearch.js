@@ -37,7 +37,7 @@ submitButton.addEventListener('click', () => {
   for (let gif of gifResults) {
     let img = document.createElement("img");
     img.src = gif.url;
-    img.title = 'Imgur: ' + gif.url.substring(18, 25) + ' Tags: ' + gif.tags.join(", ");
+    img.title = 'Tags: ' + gif.tags.join(", ");
 
     content.appendChild(img);
   }
