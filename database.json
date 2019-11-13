@@ -3,7 +3,8 @@
     "url": "gifs/100/0.gif",
     "tags": [
       "100",
-      "any"
+      "any",
+      "nodiag"
     ]
   },
   {
@@ -17,14 +18,14 @@
     "url": "gifs/100/2.gif",
     "tags": [
       "100",
-      "hundo"
+      "any"
     ]
   },
   {
     "url": "gifs/100/3.gif",
     "tags": [
       "100",
-      "hundo"
+      "any"
     ]
   },
   {
@@ -38,11 +39,25 @@
     "url": "gifs/100/5.gif",
     "tags": [
       "100",
-      "nodiag"
+      "hundo"
     ]
   },
   {
     "url": "gifs/100/6.gif",
+    "tags": [
+      "100",
+      "hundo"
+    ]
+  },
+  {
+    "url": "gifs/100/7.gif",
+    "tags": [
+      "100",
+      "nodiag"
+    ]
+  },
+  {
+    "url": "gifs/100/8.gif",
     "tags": [
       "100",
       "nodiag"
@@ -76,11 +91,19 @@
     "url": "gifs/200/3.gif",
     "tags": [
       "200",
-      "nodiag"
+      "any",
+      "hundo"
     ]
   },
   {
     "url": "gifs/200/4.gif",
+    "tags": [
+      "200",
+      "nodiag"
+    ]
+  },
+  {
+    "url": "gifs/200/5.gif",
     "tags": [
       "200",
       "nodiag"
