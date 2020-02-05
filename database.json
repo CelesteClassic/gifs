@@ -398,7 +398,8 @@
     "tags": [
       "1000",
       "any",
-      "hundo"
+      "hundo",
+      "nodiag"
     ]
   },
   {
@@ -406,8 +407,7 @@
     "tags": [
       "1000",
       "any",
-      "hundo",
-      "nodiag"
+      "hundo"
     ]
   },
   {
