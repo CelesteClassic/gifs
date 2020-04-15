@@ -55,6 +55,10 @@ button {
   background-color: #c2c3c7;
 }
 
+#gifs {
+  line-height: 1.0;
+}
+
 #gifs img {
   margin-right: 5px;
   margin-bottom: 5px;
