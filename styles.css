@@ -58,6 +58,10 @@ input {
   background-color: #fff1e8;
 }
 
+input::placeholder {
+  color: #c2c3c7;
+}
+
 button {
   font-family: 'pico-8';
   font-size: 1em;
