@@ -70,6 +70,10 @@ button {
   background-color: #c2c3c7;
 }
 
+input:focus, button:focus {
+  outline: none;
+}
+
 #gifs {
   line-height: 1.0;
 }
