@@ -28,7 +28,7 @@ submitButton.addEventListener('click', () => {
   if (searchTags.size == 0)
     return;
 
-  let content = document.getElementById('content');
+  let content = document.getElementById('gifs');
   while (content.firstChild) {
    content.firstChild.remove();
   }

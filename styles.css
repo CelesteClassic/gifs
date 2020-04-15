@@ -1,16 +1,61 @@
+@font-face {
+  font-family: 'pico-8';
+  src: url('font/pico-8-webfont.woff') format('woff'),
+       url('font/pico-8-webfont.woff2') format('woff2'),
+       url('font/pico-8.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  background-color: #222222;
-  font-family: Georgia;
-  color: #DDDDDD;
-  padding-left: 8px;
+  margin: 8px;
+  padding: 8px;
+
+  width: 100vw - 8px;
+  height: 100vh - 8px;
+
+  font-family: 'pico-8';
+  line-height: 1.25;
+  background-color: #000;
 }
 
-#banner {
-  width: 668px;
-  height: 136px;
+.bootup {
+  color: #c2c3c7;
 }
 
-#content > img {
+.content {
+  color: #fff1e8;
+}
+
+.content b {
+  color: #ffa300;
+}
+
+.content a:link, a:visited, a:active {
+  color: #29adff;
+  text-decoration: none;
+}
+
+.content a:hover {
+  color: #fff1e8;
+}
+
+input {
+  font-family: 'pico-8';
+  font-size: 1em;
+  border: none;
+  padding: 4px 0px 4px 4px;
+}
+
+button {
+  font-family: 'pico-8';
+  font-size: 1em;
+  border: none;
+  padding: 4px 0px 4px 4px;
+  background-color: #c2c3c7;
+}
+
+#gifs img {
   border-radius: 5%;
   margin-right: 5px;
 }
