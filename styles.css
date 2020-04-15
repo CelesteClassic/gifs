@@ -28,7 +28,7 @@ body {
 }
 
 .content b {
-  color: #ffa300;
+  color: #c2c3c7;
 }
 
 .content a:link, a:visited, a:active {
@@ -38,6 +38,16 @@ body {
 
 .content a:hover {
   color: #fff1e8;
+}
+
+.content hr {
+  border-top: 0.19em solid #fff1e8;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  margin-left: 0;
+  width: min(720px, 80vw);
 }
 
 input {

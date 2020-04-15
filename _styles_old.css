@@ -1,0 +1,16 @@
+body {
+  background-color: #222222;
+  font-family: Georgia;
+  color: #DDDDDD;
+  padding-left: 8px;
+}
+
+#banner {
+  width: 668px;
+  height: 136px;
+}
+
+#content > img {
+  border-radius: 5%;
+  margin-right: 5px;
+}
