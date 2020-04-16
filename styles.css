@@ -62,7 +62,7 @@ body {
 }
 
 input {
-  font-family: 'pico-8';
+  font-family: 'pico-8-smooth';
   font-size: 1em;
   border: none;
   padding: 4px 1px 4px 4px;
@@ -74,7 +74,7 @@ input::placeholder {
 }
 
 button {
-  font-family: 'pico-8';
+  font-family: 'pico-8-smooth';
   font-size: 1em;
   border: none;
   padding: 4px 1px 4px 4px;
