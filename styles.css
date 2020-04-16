@@ -23,7 +23,7 @@ body {
   width: 100vw - 8px;
   height: 100vh - 8px;
 
-  font-family: 'pico-8-smooth';
+  font-family: 'pico-8';
   line-height: 1.25;
   background-color: #000;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 input {
-  font-family: 'pico-8-smooth';
+  font-family: 'pico-8';
   font-size: 1em;
   border: none;
   padding: 4px 1px 4px 4px;
@@ -74,7 +74,7 @@ input::placeholder {
 }
 
 button {
-  font-family: 'pico-8-smooth';
+  font-family: 'pico-8';
   font-size: 1em;
   border: none;
   padding: 4px 1px 4px 4px;
