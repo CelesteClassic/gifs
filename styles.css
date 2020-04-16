@@ -27,7 +27,9 @@ body {
   color: #fff1e8;
 }
 
-.content b {
+.content em {
+  font-weight: normal;
+  font-style: normal;
   color: #c2c3c7;
 }
 
