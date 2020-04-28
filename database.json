@@ -1163,7 +1163,7 @@
     "url": "gifs/2700/3.gif",
     "tags": [
       "2700",
-      "gemskip"
+      "nodiag"
     ]
   },
   {
@@ -1175,6 +1175,13 @@
   },
   {
     "url": "gifs/2700/5.gif",
+    "tags": [
+      "2700",
+      "gemskip"
+    ]
+  },
+  {
+    "url": "gifs/2700/6.gif",
     "tags": [
       "2700",
       "gemskip"
