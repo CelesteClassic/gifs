@@ -678,8 +678,15 @@
       "nodiag"
     ]
   },
-  {
+   {
     "url": "gifs/1700/2.gif",
+    "tags": [
+      "1700",
+      "any"
+    ]
+  },
+  {
+    "url": "gifs/1700/3.gif",
     "tags": [
       "1700",
       "hundo"
